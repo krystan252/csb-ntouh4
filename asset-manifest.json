@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://morellikrystan.github.io/csb-ntouh4/static/js/main.97ea630e.chunk.js",
+    "main.js.map": "https://morellikrystan.github.io/csb-ntouh4/static/js/main.97ea630e.chunk.js.map",
+    "runtime-main.js": "https://morellikrystan.github.io/csb-ntouh4/static/js/runtime-main.d966c3ad.js",
+    "runtime-main.js.map": "https://morellikrystan.github.io/csb-ntouh4/static/js/runtime-main.d966c3ad.js.map",
+    "static/js/2.e3463956.chunk.js": "https://morellikrystan.github.io/csb-ntouh4/static/js/2.e3463956.chunk.js",
+    "static/js/2.e3463956.chunk.js.map": "https://morellikrystan.github.io/csb-ntouh4/static/js/2.e3463956.chunk.js.map",
+    "index.html": "https://morellikrystan.github.io/csb-ntouh4/index.html",
+    "static/js/2.e3463956.chunk.js.LICENSE.txt": "https://morellikrystan.github.io/csb-ntouh4/static/js/2.e3463956.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d966c3ad.js",
+    "static/js/2.e3463956.chunk.js",
+    "static/js/main.97ea630e.chunk.js"
+  ]
+}
